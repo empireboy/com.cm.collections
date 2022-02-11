@@ -1,0 +1,16 @@
+{
+    "name": "CM.Collections",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1642188404990be40b94b8438289775e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
