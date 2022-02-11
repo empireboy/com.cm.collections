@@ -6,7 +6,7 @@
     "author": "Casper Meloen",
     "description": "CM Collections is a platform independent package for adding collections such as ObjectPool.",
     "dependencies": {
-        "com.cm.objectcreation": "https://github.com/empireboy/com.cm.objectcreation.git",
+        "com.cm.objectcreation": "https://github.com/empireboy/com.cm.objectcreation.git"
     },
     "repository": {
         "type": "git",
