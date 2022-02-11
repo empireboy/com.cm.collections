@@ -1,12 +1,12 @@
 {
-    "name": "Collections",
+    "name": "com.cm.collections",
     "displayName": "CM Collections",
     "version": "0.1.0",
     "unity": "2021.2",
     "author": "Casper Meloen",
     "description": "CM Collections is a platform independent package for adding collections such as ObjectPool.",
     "dependencies": {
-        "com.cm.objectcreation": "0.1.0"
+        "com.cm.objectcreation": "https://github.com/empireboy/com.cm.objectcreation"
     },
     "repository": {
         "type": "git",
