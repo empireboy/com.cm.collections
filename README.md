@@ -1,6 +1,6 @@
 # CM Collections v0.1.0
 
-CM Collections is a platform independent package for collection related classes. This package will add base classes like ObjectPool
+CM Collections is a platform independent package for collection related classes. This package will add base classes like ObjectPool.
 
 ## State
 
